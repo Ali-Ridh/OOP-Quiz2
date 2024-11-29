@@ -1,0 +1,29 @@
+Running Predictive Text Performance Test 
+Testing Task 1 - Sigs2WordsProto 
+Start Time: 22:43:49.97 
+43556 : [gekko, hello]
+96753 : [world, yorke]
+6263 : [mane, name, mand, nane, nand, oboe, mame]
+End Time: 22:43:51.09 
+ 
+Testing Task 2 - Sigs2WordsList 
+Start Time: 22:43:51.11 
+43556 : [gekko, hello]
+96753 : [world, yorke]
+6263 : [name, mane, mand, nane, nand, oboe, mame]
+End Time: 22:43:51.87 
+ 
+Testing Task 3 - Sigs2WordsMap 
+Start Time: 22:43:51.89 
+43556 : [gekko, hello]
+96753 : [world, yorke]
+6263 : [mane, name, mand, nane, nand, oboe, mame]
+End Time: 22:43:52.74 
+ 
+Testing Task 3 - Sigs2WordsTree 
+Start Time: 22:43:52.76 
+43556 : [gellman, gekkonid, helloes, gekko, gekkonoid, gekkota, helloing, gekkonidae, hellness, gekkones, helloed, hellman, hello, hellos]
+96753 : [workfolk, workday, worldful, worlds, worldwideness, yorkers, worldish, worldaught, worldy, worldproof, worldlier, worldquake, worldbeaters, worked, world, worldlings, workfile, workfellow, worlded, worldwide, workfolks, workforce, worker, worldless, workers, worldlike, worldlet, worldman, workfare, workful, worley, worldmaking, worldliest, worldlily, yorke, yorker, worldlinesses, workdays, worldward, worldbeater, worldliness, worldwards, worldway, worldly, worldmaker, worldling]
+6263 : [mandibulopharyngeal, nandins, mcneil, mandible, nameplates, mandibula, maneuverable, mandyai, mame, mandom, mamelon, nandina, mandatories, nandine, mandyas, mandrills, mandibulohyoid, mandamusing, mandeville, mandingos, mameluco, mandlen, mandapa, mandler, mandelate, mandingoes, nanette, maneuver, mandalic, mandola, mandating, mandaree, mandorle, maness, mandaite, mandarinate, mandorla, mandataries, namely, manful, mandar, mandarinism, mandra, namelessly, mandacaru, manetti, mandat, mane, mand, mamelukes, mandan, mandal, mandation, mandarins, manequin, mameyes, mandingan, nameboard, mandolin, mandamus, mandant, manducable, nane, nand, mandarinic, mandrake, manducate, mandarinize, mandibles, nandin, ocoee, mandarindom, manesheet, name, mandrakes, nameling, mandrils, mandala, mandibular, maneuvre, mandelic, mandle, mandrill, mandioca, manducatory, nanduti, mandatum, nandu, oboe, manent, nandi, mandated, mandatee, maneuvers, maneges, oboes, mandarah, mamers, nametags, mandates, mandolinists, mcneely, namesake, mandilion, manerial, mandatoriness, mandibuliform, mandean, named, mandatorily, manfred, mameluke, mamelonation, mandamused, mandibulated, manfully, mandoer, mandaean, nameless, nameplate, mandibulomaxillary, mandarined, mcneal, mandator, namelessness, maneuvered, namda, mandment, mandative, manducating, nanes, namers, mcnelly, namesakes, mandritta, mandamuse, mandril, manducated, mandarinship, mandy, mands, mandibulate, mandators, mandrin, mandibulata, mandatory, mandyi, maneh, manei, maned, mandelbaum, mandolinist, mandaeism, maneuverer, mamercus, maneuvrable, mandamuses, mandragora, maneuverabilities, mandalas, mandil, mandie, mandalay, nandow, mandi, names, nandor, mandariness, mande, manderson, namen, mandir, maneuvring, manfish, manda, mandaic, manella, namer, maneuvred, mcneill, mandorlas, nametag, mandoline, mandyases, mandore, mandingo, manfreda, manetho, mandora, ocneria, mandolas, maneuvering, maney, mandament, manet, nanete, manes, mandruka, mandolins, mandibulary, mandriarch, nameability, obnebulate, mandragvn, mandate, mandrel, manfulness, mandolute, mameys, mandrels, mandell, mandarining, maneuvrability, manducation, mcmechen, mandats, mandua, mandych, maneuverability, mandatary, nameable, mamertine, mamey, mandarin, manege, manderelle, mandiocas, namelessless, mamertino, nametape, manettia, mameliere, maneless, mandatedness, mandel, mandibulosuspensorial]
+End Time: 22:43:54.00 
+ 

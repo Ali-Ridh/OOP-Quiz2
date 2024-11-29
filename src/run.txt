@@ -1,0 +1,33 @@
+@echo off
+echo Running Predictive Text Performance Test > Timer.txt
+
+:: Test Sigs2WordsProto (Task 1)
+echo Testing Task 1 - Sigs2WordsProto >> Timer.txt
+echo Start Time: %time% >> Timer.txt
+java -cp bin predictive.Sigs2WordsProto 43556 96753 6263 >> Timer.txt
+echo End Time: %time% >> Timer.txt
+echo. >> Timer.txt
+
+:: Test Sigs2WordsList (Task 2)
+echo Testing Task 2 - Sigs2WordsList >> Timer.txt
+echo Start Time: %time% >> Timer.txt
+java -cp bin predictive.Sigs2WordsList 43556 96753 6263 >> Timer.txt
+echo End Time: %time% >> Timer.txt
+echo. >> Timer.txt
+
+:: Test Sigs2WordsMap (Task 3 - Map Implementation)
+echo Testing Task 3 - Sigs2WordsMap >> Timer.txt
+echo Start Time: %time% >> Timer.txt
+java -cp bin predictive.Sigs2WordsMap 43556 96753 6263 >> Timer.txt
+echo End Time: %time% >> Timer.txt
+echo. >> Timer.txt
+
+:: Test Sigs2WordsTree (Task 3 - Tree Implementation)
+echo Testing Task 3 - Sigs2WordsTree >> Timer.txt
+echo Start Time: %time% >> Timer.txt
+java -cp bin predictive.Sigs2WordsTree 43556 96753 6263 >> Timer.txt
+echo End Time: %time% >> Timer.txt
+echo. >> Timer.txt
+
+echo Test Completed. Check Timer.txt for results.
+pause
